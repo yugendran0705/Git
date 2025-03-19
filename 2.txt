@@ -1,0 +1,7 @@
+HTML (HyperText Markup Language) is the standard language used to create and design documents on the World Wide Web. It is the foundation of web pages, allowing developers to structure content and embed multimedia elements such as images, videos, and interactive forms.
+
+Key Features of HTML:
+1. **Elements and Tags**: HTML uses a series of elements, represented by tags, to define the structure and content of a web page. Tags are enclosed in angle brackets, e.g., `<tagname>`.
+2. **Attributes**: Tags can have attributes that provide additional information about an element, such as `id`, `class`, `src`, and `href`.
+3. **Head and Body Sections**: An HTML document is divided into two main parts: the head and the body. The head contains meta-information, links to stylesheets, and scripts, while the body contains the actual content displayed on the web page.
+4. **Forms**: HTML provides a way to create interactive forms for user input, including text fields, checkboxes, radio buttons, and submit buttons.
